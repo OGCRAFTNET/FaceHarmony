@@ -4,7 +4,7 @@ DNBSPL-v1.0 License
 
 1. Definitions
 “Software” refers to the app FaceHarmonie and its source code.
-“Author” refers to the original creator (you).
+“Author” refers to the original creator (ogcraftnet).
 “User” refers to anyone who uses, copies, or modifies the software.
 2. Permissions
 
